@@ -27,6 +27,7 @@ jenkins:
       enableCaptcha: false
       users:
       - id: "admin"
+        password: "admin"
   slaveAgentPort: -1
   updateCenter:
     sites:
